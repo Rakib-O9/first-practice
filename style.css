@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+}
+
+.first-sec {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.flexibel {
+    display: flex;
+    padding: 20px;
+    margin-bottom: 70px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+h2 {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10px;
+}
+
+.half-width p {
+    margin-bottom: 40px;
+}
+
+.half-width img {
+    width: 70%;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+.button1 {
+    text-decoration: none;
+    border: 1px solid orange;
+    border-radius: 30px;
+    background-image: linear-gradient(yellow, orange, red);
+    padding: 10px;
+    margin-top: 50px;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+}
+
+.secound-sec {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 100px;
+}
+
+.experience h1 {
+
+
+    margin-bottom: 0px;
+}
+
+.experience {
+    margin: 0 auto;
+    text-align: center;
+    width: 350px;
+}
+
+.third-sec-bg-img {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.third-section {
+    width: 600px;
+    height: auto;
+    padding-left: 20px;
+    margin-left: 60px;
+    box-shadow: 6px 3px 30px olive;
+    margin-right: 100px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.third-section img {
+    margin-left: 60px;
+    width: 320px;
+    height: 200px;
+    border: none;
+    border-radius: 15px;
+}
+
+
+#id1 {
+    border-left: 6px solid;
+    border-left-color: orange;
+}
+
+#id2 {
+    border-left: 6px solid;
+    border-left-color: rgb(4, 0, 255);
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.forth-section {
+    box-shadow: 10px 10px 40px darkkhaki;
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px red;
+
+
+
+}
+
+.forth-section-div p {
+    width: 100%;
+    padding-right: 54px;
+    padding-left: 54px;
+}
